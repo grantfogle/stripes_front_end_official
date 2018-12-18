@@ -1,0 +1,3 @@
+rootProject.name = 'stripes_front_end'
+
+include ':app'
